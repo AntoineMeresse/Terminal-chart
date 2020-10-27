@@ -1,0 +1,4 @@
+Sys. de fichiers blocs de 1K  Utilisé Disponible Uti% Monté sur
+d1                4052144        55    50   0% /dev
+d2                 815292     1580     366   1% /run
+d3          51341792 440   43  23% /

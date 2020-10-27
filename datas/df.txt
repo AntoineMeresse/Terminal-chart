@@ -1,0 +1,16 @@
+Filesystem                1K-blocks       Used  Available Use% Mounted on
+udev                        3946572          0    3946572   0% /dev
+tmpfs                        794380       7920     786460   1% /run
+/dev/mapper/system-root   122885720   73166668   43433740  63% /
+tmpfs                       3971884      64032    3907852   2% /dev/shm
+tmpfs                          5120          4       5116   1% /run/lock
+tmpfs                       3971884          0    3971884   0% /sys/fs/cgroup
+/dev/nvme0n1p2               656864     281600     327384  47% /boot
+/dev/nvme0n1p1               244988      28413     216576  12% /boot/efi
+/dev/mapper/system-tmp      4784520      19360    4502404   1% /tmp
+/dev/mapper/system-local   66760104   34968672   28357144  56% /local
+/dev/mapper/system-var     33841852    3316836   28776232  11% /var
+tmpfs                        524288      22296     501992   5% /var/lib/sss/db
+nfshost:/home/share      3170549760 1497288704 1512183808  50% /home/share
+nfshost:/home/m1         3170549760 1497288704 1512183808  50% /home/m1
+tmpfs                        794376      23484     770892   3% /run/user/7018

@@ -1,0 +1,13 @@
+Mois       Temperature Moyenne
+Janvier    2
+Fevrier    3
+Mars       4
+Avril      12
+Mai        14
+Juin       21
+Juillet    24
+Aout       26 
+Septembre  14
+Octobre    15
+Novembre   10
+Decembre   0

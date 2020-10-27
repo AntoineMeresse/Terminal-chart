@@ -1,0 +1,6 @@
+Points Valeurs
+A      -10000
+B      100
+C      0
+D      100000
+E      -1000
